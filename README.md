@@ -9,4 +9,13 @@ In the website there is the main page which is the about page for our organizati
 ![watch the video ](https://github.com/Koushikijaiswal/About_us_Full_responsive_website/blob/main/About_us.mp4)
 
 ### home page
-![home page]()
+![home page](https://github.com/Koushikijaiswal/About_us_Full_responsive_website/blob/main/img/img1.png)
+
+### sign up page
+![home page](https://github.com/Koushikijaiswal/About_us_Full_responsive_website/blob/main/img/img2.png)
+
+### sucessfull signup page
+![home page](https://github.com/Koushikijaiswal/About_us_Full_responsive_website/blob/main/img/img3.png)
+
+### home page color auto change
+![home page](https://github.com/Koushikijaiswal/About_us_Full_responsive_website/blob/main/img/img4.png)
