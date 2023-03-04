@@ -7,3 +7,6 @@ In the website there is the main page which is the about page for our organizati
 
 ### Home Page
 ![watch the video ](https://github.com/Koushikijaiswal/About_us_Full_responsive_website/blob/main/About_us.mp4)
+
+### home page
+![home page]()
