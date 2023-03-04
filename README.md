@@ -6,4 +6,4 @@ This is our about page. If you see any spelling mistakes feel free to point them
 In the website there is the main page which is the about page for our organization. It gives the reason why we made it and things like that. This website also has 'portfolios' or 'pages' for each of our organization members. The members are _supposed to_ make their own CSS and stuff but some of them are lazy and...you see the result. Hope you like it, BAI!!
 
 ### Home Page
-![watch the video ](readme_video/About_us.mp4)
+![watch the video ](https://github.com/Koushikijaiswal/About_us_Full_responsive_website/blob/main/About_us.mp4)
